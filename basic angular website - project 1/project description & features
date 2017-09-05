@@ -1,0 +1,9 @@
+Displays features such as 
+
+-> 2way data binding
+-> url routing
+-> diectives
+
+summary : Small app for a fictional web design agency
+
+structure : [Home, About, Contact]

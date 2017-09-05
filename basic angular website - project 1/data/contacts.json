@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "street":"No.32, Deanstone Place, Colombo - 3",
+        "state":"Western Province",
+        "zip":"00300",
+        "country":"Sri Lanka",
+        "phonenumber":"+94775910099"
+    },
+    {
+        "id":2,
+        "street":"No.862, Vauxaul Street, Colombo - 2",
+        "state":"Western Province",
+        "zip":"00200",
+        "country":"Sri Lanka",
+        "phonenumber":"+94775910099"
+    },
+    {
+        "id":3,
+        "street":"No.12/2A, Old Moor Street, Colombo - 15",
+        "state":"Western Province",
+        "zip":"00150",
+        "country":"Sri Lanka",
+        "phonenumber":"+94775910099"
+    }
+]
